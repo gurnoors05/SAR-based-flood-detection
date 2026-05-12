@@ -1,28 +1,7 @@
-# Python
-__pycache__/
-*.pyc
-
-
-# SNAP outputs
+output/
+input/
+*.SAFE
+*.tif
 *.dim
 *.data/
-*.img
-*.hdr
-
-# Raster outputs
-*.tif
-*.tiff
-
-# SAFE archives
-*.SAFE/
-*.zip
-
-# QGIS temp
-*.qgs~
-*.qgz~
-
-# Output folders
-output/
-
-# VS Code
-.vscode/
+.ipynb_checkpoints/
